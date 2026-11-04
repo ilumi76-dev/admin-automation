@@ -1,0 +1,12 @@
+# 비밀 정보
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+
+# 운영체제·편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
